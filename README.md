@@ -13,7 +13,6 @@ MVC, C#, and SQL Server. Skilled in front-end and back-end development, with exp
 interfaces. Proven ability to collaborate with cross-functional teams to deliver high-quality software solutions on time and within
 budget]**
 - 📫 How to reach me: **[mukhtar00006@gmail.com]**
-- ⚡ Fun fact: **[ I built my first website when I was 7 years old.]**
 
 ## Skills and Technologies
 
