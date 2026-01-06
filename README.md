@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=ASP.NET+Developer;Web+%26+Systems+Engineer;Enterprise+Applications;RESTful+API+Specialist&center=true&width=650&height=50">
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Mukhtar%20Mohammed&fontSize=38&fontColor=ffffff" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mukhtar Mohammed</h1>
 <h3 align="center">ASP.NET Developer | Web & Systems Engineer</h3>
