@@ -60,6 +60,15 @@
 ![Mukhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ---
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mukhtar-mohammed-ahmed-b8a75016b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mukhtar00006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ### 📫 Contact Me
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mukhtar-mohammed-ahmed-b8a75016b/)
