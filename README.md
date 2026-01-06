@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=ASP.NET+Developer;Web+%26+Systems+Engineer;Enterprise+Applications;RESTful+API+Specialist&center=true&width=650&height=50">
+</p>
+
 <h1 align="center">Hi 👋, I'm Mukhtar Mohammed</h1>
 <h3 align="center">ASP.NET Developer | Web & Systems Engineer</h3>
 
