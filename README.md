@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Mukhtar%20Mohammed&fontSize=38&fontColor=ffffff" />
 </p>
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&margin-w=15" />
-</p>
 
 
 <h3 align="center">ASP.NET Developer | Web & Systems Engineer</h3>
