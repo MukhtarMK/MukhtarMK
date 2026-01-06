@@ -4,10 +4,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Mukhtar%20Mohammed&fontSize=38&fontColor=ffffff" />
 </p>
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default" />
-</p>
+
 
 
 <h3 align="center">ASP.NET Developer | Web & Systems Engineer</h3>
@@ -59,8 +56,9 @@
 ### 📊 GitHub Stats
 ![Mukhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
----
-### 🤝 Connect With Me
+
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mukhtar-mohammed-ahmed-b8a75016b/)
+- 📧 Email: mukhtar00006@gmail.com
 <p align="left">
   <a href="https://www.linkedin.com/in/mukhtar-mohammed-ahmed-b8a75016b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
@@ -69,7 +67,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-### 📫 Contact Me
-- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mukhtar-mohammed-ahmed-b8a75016b/)
-- 📧 Email: mukhtar00006@gmail.com
