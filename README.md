@@ -21,7 +21,7 @@
 #### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+
 
 #### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
