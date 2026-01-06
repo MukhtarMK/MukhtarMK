@@ -25,5 +25,5 @@
 ---
 
 ### 📫 Contact Me
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mukhtar-mohammed-ahmed-b8a75016b/)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mukhtar-mohammed-ahmed-b8a75016b/)
 - 📧 Email: mukhtar00006@gmail.com
