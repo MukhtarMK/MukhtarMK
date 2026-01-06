@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 Working on **Web & Enterprise Systems**
-- 💻 Specialized in **ASP.NET MVC & SQL Server**
+- 💻 Specialized in ASP.NET MVC, ASP.NET Core & RESTful APIs
 - 🚀 Interested in **Software Entrepreneurship**
 - 🌍 Based in Saudi Arabia
 
