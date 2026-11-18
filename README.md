@@ -54,7 +54,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Mukhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muk&show_icons=true)
+![Mukhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukhtarMK&show_icons=true)
 
 
 <p align="left">
